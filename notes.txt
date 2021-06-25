@@ -1,0 +1,39 @@
+<head> 
+<title> omar </title>
+</head>
+
+<body>
+<h1>header</h1>
+</body>
+
+usefull websites 
+devdocs.io
+w3schools
+mdn
+
+<br> new line doesn't require close tag
+<hr size="3"> the hr is an element and size ="3" is an
+attribute and the whole line is a tag the makes a horizontal line
+<center> asd</center> centers everything inside
+<!--     --> comment 
+boilerplate using html : 5
+<!DOCTYPE html> version
+<html lang="en">
+<head> says info about page and how to handle it
+    <meta charset="UTF-8"> include info about website
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+<p> </p> paragraph
+<i></i> italic
+<em></em> emphasize which is also italic
+<strong></strong> bold
+<b></b> also bold
+lists: <ul><li></li></ul> unordered lists
+<ol><li></li></ol> ordered lists
+image: <img src="" alt="">alt is alternative text if it cant fetch image
+links: <a href="">links</a>
